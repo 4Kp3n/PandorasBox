@@ -1,0 +1,19 @@
+{
+  "binaries": [
+    {
+      "name": "nicocha30/ligolo-ng",
+      "assets": [
+          "ligolo-ng-proxy_.*?Linux_ARM64.tar.gz",
+          "ligolo-ng-agent_.*?Linux_64bit.tar.gz",
+          "WINDOWSAGENT"
+      ]
+    },
+    {
+      "name": "carlospolop/PEASS-ng",
+      "assets": [
+          "winPEAS.bat", 
+          "linpeas_linux_amd64"
+      ]
+    }
+  ]
+}
